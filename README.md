@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ricardodsr
 - 👀 I’m interested in web development and arm systems  
-- 🌱 I’m currently learning VueJS
-- 💞️ I’m looking to collaborate on almost project that wake interest to me
+- 🌱 I’m currently working in VueJS
 - 📫 How to reach me   
 --Personal mail: Ricardo.rouco@gmail.com 
 --DW mail      : Ricardo.rouco@digitalwish.com
