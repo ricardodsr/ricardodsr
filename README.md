@@ -2,8 +2,8 @@
 -  I’m interested in Web development, Desktop Development, Design and arm systems  
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems
 
--  I started giving explanations in programming in 2017 and 
--  I´m currently giving explanations in Java, C, C++, Python.
+-  I started teaching programming languages in 2017 and 
+-  I´m currently teaching Java, C, C++, Python.
 
 
 How to reach me: </br>  
