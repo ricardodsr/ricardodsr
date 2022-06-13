@@ -3,7 +3,7 @@
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems
 
 -  I started teaching programming languages in 2017 and 
--  I´m currently teaching Java, C, C++, Python.
+-  I´m currently teaching Java, C, C++, Python, Haskell.
 
 
 How to reach me: </br>  
