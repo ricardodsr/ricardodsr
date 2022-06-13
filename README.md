@@ -31,7 +31,7 @@ Languages and Tools:
 </br>
 </br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
 
 
 
