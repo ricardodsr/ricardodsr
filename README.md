@@ -32,5 +32,5 @@ Languages and Tools:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
 
-https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR
+![Donate Paypal](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 
