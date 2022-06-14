@@ -5,7 +5,9 @@
 -  I started teaching programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.
 
 
-How to reach me: </br>  
+How to reach me: </br>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
+</br>
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
 Form         : https://digitalwish.pt</br>
@@ -31,5 +33,3 @@ Languages and Tools:
 </br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
