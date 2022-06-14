@@ -3,6 +3,8 @@
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems
 
 -  I started teaching programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br>
+</br>
+</br>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 </br>
 
