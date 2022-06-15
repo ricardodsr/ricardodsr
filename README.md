@@ -8,7 +8,7 @@
 
 
 How to reach me: </br>
-CV           : https://digitalwish.pt/CVRicardo/
+CV           : https://digitalwish.pt/CVRicardo/</br> 
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
 Form         : https://digitalwish.pt</br>
