@@ -34,3 +34,8 @@ Languages and Tools:
 </br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
+
+
+</br>
+<img align="left" alt="Digitalwish" width="200px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png">
+
