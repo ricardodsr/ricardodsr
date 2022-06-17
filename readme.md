@@ -11,20 +11,18 @@ How to reach me: </br>
 CV           : https://digitalwish.pt/CVRicardo/</br> 
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
-[<img align="left" alt="digitalwish" width="200px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png" />][digitalwish]
-[digitalwish]:https://digitalwish.pt
-</br>
 </br>
 [<img align="left" alt="Instagram" width="30px" src="https://image.similarpng.com/very-thumbnail/2020/04/Facebook-logo-with-white-circle-PNG.png" />][facebook]
 [<img align="left" alt="LinkedIn" width="28px" src="https://www.pikpng.com/pngl/m/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" />][linkedin]
+[<img align="left" alt="Digitalwish" width="200px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png" />][digitalwish]
 
 [linkedin]: https://www.linkedin.com/in/ricardo-rouco-57420b37/
 [facebook]: https://www.facebook.com/ricardo.rouco.5/
-
+[digitalwish]: https://digitalwish.pt/
 </br>
 </br>
-
-
+</br>
+</br>
 Languages and Tools:
 </br>
 
