@@ -11,7 +11,7 @@ How to reach me: </br>
 CV           : https://digitalwish.pt/CVRicardo/</br> 
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
-<img align="left" alt="digitalwish" width="200px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png">[digitalwish]
+[<img align="left" alt="digitalwish" width="200px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png" />][digitalwish]
 [digitalwish]:https://digitalwish.pt
 </br>
 </br>
