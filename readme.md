@@ -17,7 +17,8 @@ Mail         : Ricardo.rouco@gmail.com</br>
 DW mail      : Ricardo.rouco@digitalwish.com</br>
 [<img align="left" alt="Instagram" width="30px" src="https://image.similarpng.com/very-thumbnail/2020/04/Facebook-logo-with-white-circle-PNG.png" />][facebook]
 [<img align="left" alt="LinkedIn" width="28px" src="https://www.pikpng.com/pngl/m/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" />][linkedin]
-
+[linkedin]: https://www.linkedin.com/in/ricardo-rouco-57420b37/
+[facebook]: https://www.facebook.com/ricardo.rouco.5/
 
 
 <h2>Languages and Tools:</h2>
@@ -31,8 +32,7 @@ DW mail      : Ricardo.rouco@digitalwish.com</br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
 
-[linkedin]: https://www.linkedin.com/in/ricardo-rouco-57420b37/
-[facebook]: https://www.facebook.com/ricardo.rouco.5/
+
 
 
 
