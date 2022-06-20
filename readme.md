@@ -16,7 +16,7 @@ BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
 <a href="https://digitalwish.pt/CVRicardo/">Curriculum</a> </br>
 <a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkdin</a> </br>
-<a href="https://www.facebook.com/ricardo.rouco.5/">Facebook/a> </br>
+<a href="https://www.facebook.com/ricardo.rouco.5/">Facebook</a> </br>
 
 
 
