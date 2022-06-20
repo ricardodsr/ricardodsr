@@ -17,13 +17,11 @@ Mail         : Ricardo.rouco@gmail.com</br>
 DW mail      : Ricardo.rouco@digitalwish.com</br>
 </br>
 [<img align="left" alt="Instagram" width="30px" src="https://image.similarpng.com/very-thumbnail/2020/04/Facebook-logo-with-white-circle-PNG.png" />][facebook]
-[<img align="left" alt="LinkedIn" width="28px" src="https://www.pikpng.com/pngl/m/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="28px" src="https://www.pikpng.com/pngl/m/57-572097_linkedin-transparent-icon-linked-in-logo-with-white.png" />][linkedin]</br>
 
-</br>
-</br>
+
 <h2>Languages and Tools:</h2>
 </br>
-
 <img align="left" alt="Haskell" width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png">
 <img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg">
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
