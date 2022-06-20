@@ -8,10 +8,10 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 </br>
 ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
-BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV
+BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 
 
-How to reach me: </br></br>
+<h2>How to reach me:</h2> </br></br>
 CV           : https://digitalwish.pt/CVRicardo/</br> 
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
@@ -21,7 +21,7 @@ DW mail      : Ricardo.rouco@digitalwish.com</br>
 
 </br>
 </br>
-Languages and Tools:
+<h2>Languages and Tools:</h2>
 </br>
 
 <img align="left" alt="Haskell" width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png">
