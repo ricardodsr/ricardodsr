@@ -1,5 +1,4 @@
-<h1>Hi, I’m Ricardo Rouco</h1>
--
+- <h1>Hi, I’m Ricardo Rouco</h1>
 -  I’m interested in Web development, Desktop Development, Design and arm systems  
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems
 
