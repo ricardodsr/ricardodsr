@@ -4,17 +4,17 @@
 
 -  I started teaching programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
-Help me continue to develop for the community!!!</br>
+Help me continue to develop for the community!!!</br></br>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 </br>
 ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
 BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 
 
-<h2>How to reach me:</h2> </br>
-CV           : https://digitalwish.pt/CVRicardo/</br> 
+<h2>How to reach me:</h2> </br> 
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
+CV           : https://digitalwish.pt/CVRicardo/</br>
 Linkedin     : https://www.linkedin.com/in/ricardo-rouco-57420b37/</br>
 Facebook     : https://www.facebook.com/ricardo.rouco.5/</br>
 
