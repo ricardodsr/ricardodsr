@@ -4,7 +4,7 @@
 
 -  I started teaching programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
-Help me continue to develop for the community!!!</br></br>
+<h2>Help me continue to develop for the community!!!<h2></br></br>
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 </br>
 ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
