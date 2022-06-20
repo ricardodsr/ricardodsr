@@ -12,11 +12,12 @@ BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 
 
 <h2>How to reach me:</h2> </br> 
-<a href="Ricardo.rouco@gmail.com">Peersonal E-mail</a> </br> 
-DW mail      : Ricardo.rouco@digitalwish.com</br>
-CV           : https://digitalwish.pt/CVRicardo/</br>
-Linkedin     : https://www.linkedin.com/in/ricardo-rouco-57420b37/</br>
-Facebook     : https://www.facebook.com/ricardo.rouco.5/</br>
+<a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
+<a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
+<a href="https://digitalwish.pt/CVRicardo/">Curriculum</a> </br>
+<a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkdin</a> </br>
+<a href="https://www.facebook.com/ricardo.rouco.5/">Facebook/a> </br>
+
 
 
 <h2>Languages and Tools:</h2>
