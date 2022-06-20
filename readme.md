@@ -11,7 +11,7 @@ ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
 BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 
 
-<h2>How to reach me:</h2> </br></br>
+<h2>How to reach me:</h2> </br>
 CV           : https://digitalwish.pt/CVRicardo/</br> 
 Mail         : Ricardo.rouco@gmail.com</br> 
 DW mail      : Ricardo.rouco@digitalwish.com</br>
