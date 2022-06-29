@@ -4,13 +4,6 @@
 
 -  I started teaching programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
-Help me continue to develop for the community!!!</br></br>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
-</br></br>
-ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
-BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
-
-
 <h2>How to reach me:</h2> </br> 
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
@@ -29,7 +22,13 @@ BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 </br>
 </br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)] </br>
+
+Help me continue to develop for the community!!!</br></br>
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
+</br></br>
+ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
+BTC Wallet : 3P7xU5aRxcKCJve7Hi4rxP71mub1uUK5SV</br>
 
 
 
