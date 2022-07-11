@@ -11,7 +11,7 @@
 <a href="https://digitalwish.pt/CVRicardo/">Curriculum</a> </br>
 <a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkdin</a> </br>
 <a href="https://www.facebook.com/ricardo.rouco.5/">Facebook</a> </br>
-<a href="href=https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">Author of Uma pequena introdução as cripto moedas</a>
+<a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">Author of Uma pequena introdução as cripto moedas</a>
 
 
 <h2>Languages and Tools:</h2>
