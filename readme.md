@@ -28,7 +28,7 @@
 
 
 <h2>Help and Donate:</h2>
-Help me continue to develop for the community!!!</br></br>
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 </br></br>
 ETH Wallet : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39</br>
