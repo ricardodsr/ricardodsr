@@ -1,8 +1,8 @@
-- <h1>Hi, I’m Ricardo Rouco</h1>
--  I’m interested in Web development, Desktop Development, Design and arm systems  
+<h1>Hi, I’m Ricardo Rouco</h1>
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems
 -  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
+<h2>E-books and Manuals:</h2> </br> 
 <a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">Author of: Uma pequena introdução as cripto moedas</a> </br>
 
 
