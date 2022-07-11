@@ -3,7 +3,7 @@
 -  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
 <h2>E-books and Manuals:</h2> </br> 
-<a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">Author of: Uma pequena introdução às cripto moedas</a> </br>
+<a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">Author of: Uma pequena introdução às criptomoedas</a> </br>
 
 
 <h2>How to reach me:</h2> </br> 
