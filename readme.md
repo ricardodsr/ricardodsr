@@ -1,5 +1,6 @@
 <h1>Hi, I’m Ricardo Rouco</h1>
--  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems.</br>
+-  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @ https://digitalwish.pt</br>
+-  Doing some jobs realted whit Design and Primal Brandig @ https://digitalwish.pt</br>
 -  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
 <h2>Publications:</h2> </br> 
