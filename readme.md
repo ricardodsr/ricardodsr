@@ -11,7 +11,7 @@
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
 <a href="https://digitalwish.pt/CVRicardo/">Curriculum</a> </br>
-<a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkdin</a> </br>
+<a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkedin</a> </br>
 <a href="https://www.facebook.com/ricardo.rouco.5/">Facebook</a> </br>
 
 
