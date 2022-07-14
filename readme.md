@@ -3,7 +3,7 @@
 -  Doing some jobs realted whit Design and Primal Brandig @ https://digitalwish.pt</br>
 -  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
-<h2>Publications:</h2> </br> 
+<h2>Publications:</h2>
 <a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">Author of: Uma pequena introdução às criptomoedas (Kindle E-Book)</a> </br>
 
 
