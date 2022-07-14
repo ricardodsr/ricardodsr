@@ -17,7 +17,6 @@
 
 
 <h2>Languages and Tools:</h2>
-</br>
 <img align="left" alt="Haskell" width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png">
 <img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg">
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
