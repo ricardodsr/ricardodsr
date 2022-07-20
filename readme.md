@@ -7,12 +7,13 @@
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
 <a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk">(Kindle E-Book)</a> || <a href="https://play.google.com/store/books/details?id=ZCJ6EAAAQBAJ">(Google Books)</a>
 
-<h2>How to reach me:</h2> </br> 
+<h2>How to reach me:</h2>
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
 <a href="https://digitalwish.pt/CVRicardo/">Curriculum</a> </br>
 <a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkedin</a> </br>
 <a href="https://www.facebook.com/ricardo.rouco.5/">Facebook</a> </br>
+<a href="https://discord.gg/QSyZvcczPG">Digitalwish Discord Server</a> </br>
 
 
 
