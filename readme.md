@@ -4,11 +4,14 @@
 -  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
 <h2>Publications:</h2>
+
+<h4>Author of: Fundamentos da programação em Python</h4>
+<a href="https://play.google.com/store/books/details?id=ZiJ6EAAAQBAJ" target="_blank" >(Google Books)</a> </br>
+
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
 <a href="https://www.amazon.com/dp/B0B65XQCZ7/ref=tsm_1_fb_lk" target="_blank">(Kindle E-Book)</a> || <a href="https://play.google.com/store/books/details?id=ZCJ6EAAAQBAJ" target="_blank" >(Google Books)</a></br>
 
-<h4>Author of: Fundamentos da programação em Python</h4>
-  <p> <a href="https://play.google.com/store/books/details?id=ZiJ6EAAAQBAJ" target="_blank" >(Google Books)</a> </p>
+
 
 <h2>How to reach me:</h2>
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
