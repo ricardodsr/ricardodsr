@@ -19,7 +19,7 @@
 <a href="https://digitalwish.pt/CVRicardo/">Curriculum</a> </br>
 <a href="https://www.linkedin.com/in/ricardo-rouco-57420b37/">Linkedin</a> </br>
 <a href="https://www.facebook.com/ricardo.rouco.5/">Facebook</a> </br>
-<a href="https://rrgraphicdesign.gumroad.com/"> rrgraphicdesign store </a> </br>
+<a href="https://rrgraphicdesign.gumroad.com/"> RRgraphicdesign store </a> </br>
 <a href="https://discord.gg/QSyZvcczPG">Digitalwish Discord Server</a> </br>
 
 
