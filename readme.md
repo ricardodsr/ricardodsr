@@ -38,8 +38,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&item_name=Continue+sharing+and+development+free+code+for+community.&currency_code=EUR)
 </br></br>
 
-
-
+<img align="left" alt="GTC" width="30px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png"> : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39
 
 
 
