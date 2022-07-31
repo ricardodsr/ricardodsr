@@ -16,10 +16,13 @@
 <h2>How to reach me:</h2>
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
-<a href="https://linktr.ee/ricardodsr">All Contact Infos</a> </br></br>
-<img align="left" alt="Linktree" width="200px" src="https://github.com/ricardodsr/ricardodsr/blob/main/ricardodsr.png"> </br></br>
-</br></br></br>
-</br></br></br>
+
+
+<h4>More info about me!!!</br>(you can also click on the qrcode):</h4>
+                        <a href="https://linktr.ee/ricardodsr">
+                            <img src="https://github.com/ricardodsr/ricardodsr/blob/main/ricardodsr.png"
+                            width="200" height="200">
+                        </a>
 
 
 <h2>Languages and Tools:</h2>
