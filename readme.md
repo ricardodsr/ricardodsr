@@ -16,8 +16,9 @@
 <h2>How to reach me:</h2>
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
-<img align="left" alt="Linktree" width="200px" src="https://drive.google.com/file/d/1mZKv1U5ThRdXMU8vmlfvmVhiBSzQ21ES/view?usp=sharing">
-
+<img align="left" alt="Linktree" width="200px" src="https://github.com/ricardodsr/ricardodsr/blob/main/ricardodsr.png"> </br></br>
+</br></br></br>
+</br></br></br>
 
 
 <h2>Languages and Tools:</h2>
