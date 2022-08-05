@@ -6,13 +6,10 @@
 <h2>Publications:</h2>
 
 <h4>Author of: Fundamentos da programação em Python</h4>
-<a href="https://play.google.com/store/books/details?id=ZiJ6EAAAQBAJ" target="_blank" >(Google Books)</a> </br>
-
 <h4>Author of: Introdução a Programação Funcional</h4>
-<a href="https://play.google.com/store/books/details?id=8Il6EAAAQBAJ" target="_blank" >(Google Books)</a></br>
-
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
-<a href="https://play.google.com/store/books/details?id=ZCJ6EAAAQBAJ" target="_blank" >(Google Books)</a></br>
+
+<a href="https://play.google.com/store/books/author?id=Ricardo+Rouco" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
 
 
 <h2>How to reach me:</h2>
