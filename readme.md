@@ -13,6 +13,8 @@
 
 
 <h2>How to reach me:</h2>
+<a href="https://ricardodsr.github.io/">Personal Github Page</a> </br>
+
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
 
