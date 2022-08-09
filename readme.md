@@ -9,7 +9,7 @@
 <h4>Author of: Introdução a Programação Funcional</h4>
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
 
-<a href="https://play.google.com/store/books/author?id=Ricardo+Rouco" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
+<a href="https://linktr.ee/livrosrdsr" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
 
 
 <h2>How to reach me:</h2>
