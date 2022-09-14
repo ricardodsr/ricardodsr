@@ -1,9 +1,9 @@
 <a href="https://linktr.ee/ricardodsr">
                             <img src="https://ricardodsr.github.io/images/rrLogo.png"
-                            width="300" height="300">
+                            width="300" height="300" align="center">
                         </a>
 
-<h1>Hi, I’m Ricardo Rouco</h1>
+<h1 align="center">Hi, I’m Ricardo Rouco</h1>
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish </br>
 -  Doing some jobs realted whit Design and Primal Brandig @Digitalwish</br>
 -  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
