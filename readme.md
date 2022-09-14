@@ -1,4 +1,4 @@
-<a href="https://linktr.ee/ricardodsr">
+<a align="center" href="https://linktr.ee/ricardodsr">
                             <img src="https://ricardodsr.github.io/images/rrLogo.png"
                             width="300" height="300" align="center">
                         </a>
