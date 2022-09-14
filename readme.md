@@ -1,3 +1,8 @@
+<a href="https://linktr.ee/ricardodsr">
+                            <img src="https://ricardodsr.github.io/images/rrLogo.png"
+                            width="300" height="300">
+                        </a>
+
 <h1>Hi, I’m Ricardo Rouco</h1>
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish </br>
 -  Doing some jobs realted whit Design and Primal Brandig @Digitalwish</br>
