@@ -30,16 +30,10 @@ width="300" height="300"></a> </p>
                         </a>
 
 
-<h2 align="center" >:hammer_and_wrench: Languages and Tools :</h2>
-<img align="left" alt="Haskell" width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png">
-<img align="left" alt="Haskell" width="30px" src="https://iconape.com/wp-content/files/hc/371044/svg/371044.svg">
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
-</br>
-</br>
+<h2 align="center" >:hammer_and_wrench: Languages and Tools :</h2> </br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true)] </br> </br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true) </br> </br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ricardodsr&theme=dark&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h2 align="center" >Help and Donate:</h2>
 
