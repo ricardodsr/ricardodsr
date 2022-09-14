@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://ricardodsr.github.io/images/rrLogo.png"
-width="300" height="300" align="center"></p>
+  <a href="https://ricardodsr.github.io"> <img src="https://ricardodsr.github.io/images/rrLogo.png"
+width="300" height="300"></a> </p>
 
 <h1 align="center">Hi, I’m Ricardo Rouco</h1></br>
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish </br>
