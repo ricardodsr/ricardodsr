@@ -34,8 +34,7 @@
 </br>
 </br>
 
-![Top Languages]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true) </br> </br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodsr&layout=compact&theme=nord&hide_border=true) </br> </br>
 
 
 <h2>Help and Donate:</h2>
