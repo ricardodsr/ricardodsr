@@ -2,10 +2,11 @@
   <a href="https://ricardodsr.github.io"> <img src="https://ricardodsr.github.io/images/rrLogo.png"
 width="300" height="300"></a> </p>
 
-<h1 align="center">Hi, I’m Ricardo Rouco</h1></br>
+<h2>About me</h2></br>
+-  My name is Ricardo Rouco </br>
 -  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish </br>
 -  Doing some jobs realted whit Design and Primal Brandig @Digitalwish</br>
--  I started tutoring programming languages in 2017 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
+-  I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
 <h2>Publications:</h2>
 
