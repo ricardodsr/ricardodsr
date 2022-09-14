@@ -4,10 +4,10 @@
 width="300" height="300"></a> </p>
 
 <h2> 🕵️‍♂️: About me</h2></br>
--  My name is Ricardo Rouco </br>
--  I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish </br>
--  Doing some jobs realted whit Design and Primal Brandig @Digitalwish</br>
--  I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
+<h3> My name is Ricardo Rouco </h3> </br>
+<h3>I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish</h3> </br>
+<h3>Doing some jobs realted whit Design and Primal Brandig @Digitalwish</h3></br>
+<h3>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h3></br></br>
 
 <h2> 📧: How to reach me:</h2>
 <a href="https://ricardodsr.github.io/">Personal Github Page</a> </br>
