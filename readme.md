@@ -3,11 +3,11 @@
   <a href="https://ricardodsr.github.io"> <img src="https://ricardodsr.github.io/images/rrLogo.png"
 width="300" height="300"></a> </p>
 
-<h2> 🕵️‍♂️: About me</h2></br>
-<h3> My name is Ricardo Rouco </h3> </br>
-<h3>I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish</h3> </br>
-<h3>Doing some jobs realted whit Design and Primal Brandig @Digitalwish</h3></br>
-<h3>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h3></br></br>
+<h2> 🕵️‍♂️: About me</h2>
+<h4> My name is Ricardo Rouco </h4>
+<h4>I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish</h4>
+<h4>Doing some jobs realted whit Design and Primal Brandig @Digitalwish</h4>
+<h4>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h4>
 
 <h2> 📧: How to reach me:</h2>
 <a href="https://ricardodsr.github.io/">Personal Github Page</a> </br>
