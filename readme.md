@@ -9,15 +9,6 @@ width="300" height="300"></a> </p>
 -  Doing some jobs realted whit Design and Primal Brandig @Digitalwish</br>
 -  I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</br></br>
 
-<h2> 📖: Publications:</h2>
-
-<h4>Author of: Fundamentos da programação em Python</h4>
-<h4>Author of: Introdução a Programação Funcional</h4>
-<h4>Author of: Uma pequena introdução às criptomoedas</h4>
-
-<a href="https://linktr.ee/livrosrdsr" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
-
-
 <h2> 📧: How to reach me:</h2>
 <a href="https://ricardodsr.github.io/">Personal Github Page</a> </br>
 
@@ -30,6 +21,16 @@ width="300" height="300"></a> </p>
                             <img src="https://github.com/ricardodsr/ricardodsr/blob/main/ricardodsr.png"
                             width="200" height="200">
                         </a>
+
+
+
+<h2> 📖: Publications:</h2>
+
+<h4>Author of: Fundamentos da programação em Python</h4>
+<h4>Author of: Introdução a Programação Funcional</h4>
+<h4>Author of: Uma pequena introdução às criptomoedas</h4>
+
+<a href="https://linktr.ee/livrosrdsr" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
 
 
 <h2>🛠️: Languages and Tools :</h2> 
