@@ -10,7 +10,7 @@ width="300" height="300"></a> </p>
 <h4>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h4>
 
 <h2> 📧: How to reach me:</h2>
-<a href="https://ricardodsr.github.io/">Personal Github Page</a> </br>
+<a href="https://ricardodsr.github.io/" target="_blank">Personal Github Page</a> </br>
 
 <a href="mailto:Ricardo.rouco@gmail.com">Personal E-mail</a> </br>
 <a href="mailto:Ricardo.rouco@digitalwish.com">DW E-mail</a> </br>
