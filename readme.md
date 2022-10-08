@@ -3,13 +3,13 @@
   <a href="https://ricardodsr.github.io"> <img src="https://ricardodsr.github.io/images/rrLogo.png"
 width="300" height="300"></a> </p>
 
-<h2> 🕵️‍♂️: About me</h2>
+# 🕵️‍♂️: About me
 <h4> My name is Ricardo Rouco </h4>
 <h4>I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish</h4>
 <h4>Doing some jobs realted whit Design and Primal Brandig @Digitalwish</h4>
 <h4>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h4>
 
-<h2> 📧: How to reach me:</h2>
+# 📧: How to reach me:
 
 [![Github](https://img.shields.io/badge/ricardodsr-.github.io-green)](https://ricardodsr.github.io)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ricardo.rouco.5) 
@@ -25,7 +25,7 @@ width="300" height="300"></a> </p>
 
 
 
-<h2> 📖: Publications:</h2>
+# 📖: Publications:
 
 <h4>Author of: Fundamentos da programação em Python</h4>
 <h4>Author of: Introdução a Programação Funcional</h4>
