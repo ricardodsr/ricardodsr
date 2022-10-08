@@ -16,8 +16,8 @@ width="300" height="300"></a> </p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-rouco-57420b37) 
 
 
-
-<h4>More info about me!!!</br>(you can also click on the qrcode):</h4>
+# ❕: More info about me!!!</br>
+<h4>(you can also click on the qrcode):</h4>
                         <a href="https://linktr.ee/ricardodsr" target="_blank">
                             <img src="https://github.com/ricardodsr/ricardodsr/blob/main/ricardodsr.png"
                             width="200" height="200">
