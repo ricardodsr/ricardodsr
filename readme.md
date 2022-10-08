@@ -10,8 +10,7 @@ width="300" height="300"></a> </p>
 <h4>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h4>
 
 <h2> 📧: How to reach me:</h2>
-<a href="https://ricardodsr.github.io/" target="_blank">Personal Github Page</a> </br>
-
+[![Github](https://img.shields.io/badge/ricardodsr-.github.io-green)](https://ricardodsr.github.io)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ricardo.rouco.5) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-rouco-57420b37) 
 
