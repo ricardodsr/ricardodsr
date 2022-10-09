@@ -12,7 +12,9 @@ width="300" height="300"></a> </p>
 # 📧: How to reach me:
 
 [![Github](https://img.shields.io/badge/ricardodsr-.github.io-green)](https://ricardodsr.github.io)
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ricardo.rouco.5) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardo-rouco-57420b37) 
 
 
