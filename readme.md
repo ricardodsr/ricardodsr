@@ -32,6 +32,7 @@ width="300" height="300"></a> </p>
 <h4>Author of: Fundamentos da programação em Python</h4>
 <h4>Author of: Introdução a Programação Funcional</h4>
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
+<h4>Author of: Análise Técnica </h4>
 
 <a href="https://linktr.ee/livrosrdsr" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
 
