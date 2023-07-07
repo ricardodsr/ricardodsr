@@ -31,6 +31,7 @@ width="300" height="300"></a> </p>
 
 <h4>Author of: Fundamentos da programação em Python</h4>
 <h4>Author of: Introdução a Programação Funcional</h4>
+<h4>Author of: I.A.! Aprenda o que são prompts e como utiliza-los </h4>
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
 <h4>Author of: Análise Técnica </h4>
 
