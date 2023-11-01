@@ -1,6 +1,6 @@
 <h2 align ="center"> 🔽 Ricardodsr.github.io</h2>
 <p align="center">
-  <a href="https://ricardodsr.github.io"> <img src="https://ricardodsr.github.io/images/rrLogo (1).png"
+  <a href="https://ricardodsr.github.io"> <img src="https://ricardodsr.github.io/images/rrLogo.png"
 width="300" height="300"></a> </p>
 
 # 🕵️‍♂️: About me
