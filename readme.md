@@ -28,7 +28,7 @@ width="300" height="300"></a> </p>
 
 
 # 📖: Publications:
-
+<h4>Author of: Cibersegurança</h4>
 <h4>Author of: Fundamentos da programação em Python</h4>
 <h4>Author of: Introdução a Programação Funcional</h4>
 <h4>Author of: I.A.! Aprenda o que são prompts e como utiliza-los </h4>
