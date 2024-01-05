@@ -7,6 +7,7 @@ width="300" height="300"></a> </p>
 <h4> My name is Ricardo Rouco </h4>
 <h4>I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish</h4>
 <h4>Doing some jobs realted whit Design and Primal Brandig @Digitalwish</h4>
+<h4> Board Member and CTO @ NETIC </h4>
 <h4>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h4>
 
 # 📧: How to reach me:
