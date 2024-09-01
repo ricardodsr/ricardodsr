@@ -22,7 +22,7 @@ width="300" height="300"></a> </p>
 <h4>(you can also click on the qrcode):</h4>
                         <a href="https://linktr.ee/ricardodsr" target="_blank">
                             <img align ="center" src="https://github.com/ricardodsr/ricardodsr/blob/main/ricardodsr.png"
-                            width="200" height="200">
+                            width="150" height="150">
                         </a>
 
 
