@@ -61,7 +61,7 @@ width="300" height="300"></a> </p>
 
 
  # 💰 You can help me by Donating
-  [![PayPal](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&currency_code=EUR) 
+  https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&currency_code=EUR
 
 
 
