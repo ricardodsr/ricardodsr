@@ -62,7 +62,7 @@ width="300" height="300"></a> </p>
 
  # 💰 You can help me by Donating
 
-<h4>(you can also click on the qrcode):</h4>
+<h4>(you can also click on the qrcode to donate):</h4>
                         <a href="https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&currency_code=EUR" target="_blank">
                             <img align ="center" src="https://github.com/ricardodsr/ricardodsr/blob/main/QR%20Code.png"
                             width="200" height="200">
