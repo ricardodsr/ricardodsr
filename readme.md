@@ -61,7 +61,12 @@ width="300" height="300"></a> </p>
 
 
  # 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ricardorouco) 
+  [![PayPal](https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&currency_code=EUR) 
+
+
+
+
+  
  # 💰 You can help me by Donating cripto
 <img align="left" alt="GTC" width="30px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png"> : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39
 
