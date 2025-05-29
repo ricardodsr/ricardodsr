@@ -55,11 +55,6 @@ width="300" height="300"></a> </p>
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ricardodsr&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-# 🌐 Visitors
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ricardodsr&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
-
 
  # 💰 You can help me develop more Education materials
 
