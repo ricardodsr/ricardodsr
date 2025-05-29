@@ -5,8 +5,7 @@ width="300" height="300"></a> </p>
 
 # 🕵️‍♂️: About me
 <h4> My name is Ricardo Rouco </h4>
-<h4>I’m currently working in VueJS, Java, C#, Javascript, HTML5 and arm development systems @Digitalwish</h4>
-<h4>Doing some jobs realted whit Design and Primal Brandig @Digitalwish</h4>
+<h4>I’m currently working Nodejs, AI autatizations, React, Socket IO, Mongo @Grupo Érre</h4>
 <h4>I started tutoring programming languages in 2018 and i'm currently teaching Java, C, C++, Python and Haskell.</h4>
 
 # 📧: How to reach me:
@@ -28,6 +27,8 @@ width="300" height="300"></a> </p>
 
 
 # 📖: Publications:
+<h4>Author of: Engenharia de Prompts</h4>
+<h4>Author of: Cibersegurança 101</h4>
 <h4>Author of: Cibersegurança</h4>
 <h4>Author of: Fundamentos da programação em Python</h4>
 <h4>Author of: Introdução a Programação Funcional</h4>
@@ -35,7 +36,7 @@ width="300" height="300"></a> </p>
 <h4>Author of: Uma pequena introdução às criptomoedas</h4>
 <h4>Author of: Análise Técnica </h4>
 
-<a href="https://linktr.ee/livrosrdsr" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
+<a href="https://ricardodsr.github.io" target="_blank" >(Ricardo Rouco @Google Strore)</a></br>
 
 # 👨‍💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -60,7 +61,7 @@ width="300" height="300"></a> </p>
 </a>
 
 
- # 💰 You can help me by Donating
+ # 💰 You can help me develop more Education materials
 
 <h4>(you can also click on the qrcode to donate):</h4>
                         <a href="https://www.paypal.com/donate/?business=ZD833JVFNGP6E&no_recurring=0&currency_code=EUR" target="_blank">
@@ -76,7 +77,7 @@ width="300" height="300"></a> </p>
 
 
   
- # 💰 You can help me by Donating cripto
+ # 💰 You can help me develop more Education materials
 <img align="left" alt="GTC" width="30px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png"> : 0x0a6e00b80de31EFAD8e4A32f4ECfadB9554E5C39
 
 
