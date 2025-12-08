@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Full-stack developer and tech educator based in Porto, Portugal. I specialize in building modern web applications with **Node.js**, **React**, and **MongoDB**, while integrating **AI-powered automations** to deliver innovative solutions.
+Full-stack developer and tech educator based in Monção, Portugal. I specialize in building modern web applications with **Node.js**, **React**, and **MongoDB**, while integrating **AI-powered automations** to deliver innovative solutions.
 
 Since 2018, I've been teaching programming languages including **Java**, **C**, **C++**, **Python**, and **Haskell** — because sharing knowledge is the best way to grow our tech community.
 
