@@ -2,7 +2,7 @@
   
 # Ricardo Rouco
 
-**Head of Development & AI** @ [Grupo Érre](https://grupoerre.pt)
+**Senior Developer & AI R&D**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ricardodsr-181717?style=flat&logo=github)](https://github.com/ricardodsr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--rouco-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ricardo-rouco-57420b37)
